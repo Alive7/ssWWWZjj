@@ -9,3 +9,5 @@ mamba env create -f environment.yml
 # add the ssWWWZjj package for some utils func
 pip install -e .
 ```
+
+Tets
